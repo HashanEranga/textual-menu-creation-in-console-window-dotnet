@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tQBPOWZe6NjdHMQTkxrC1hGCr/TUkWxLwAl/mIjxVWmxZAgUIbjofZj+/nX4GiOO5sI5xHUHZfmz6yzuKpuvUQ==",
+  "success": true,
+  "projectFilePath": "D:\\Profession\\FreeLance\\C#\\textual-menu-creation-in-console-window-dotnet\\textual-menu-implementation\\textual-menu-implementation\\textual-menu-implementation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hashan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

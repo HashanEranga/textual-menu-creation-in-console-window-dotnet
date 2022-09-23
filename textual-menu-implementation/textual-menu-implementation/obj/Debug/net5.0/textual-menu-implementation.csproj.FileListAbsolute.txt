@@ -1,0 +1,16 @@
+D:\Profession\FreeLance\C#\textual-menu-creation-in-console-window-dotnet\textual-menu-implementation\textual-menu-implementation\bin\Debug\net5.0\textual-menu-implementation.exe
+D:\Profession\FreeLance\C#\textual-menu-creation-in-console-window-dotnet\textual-menu-implementation\textual-menu-implementation\bin\Debug\net5.0\textual-menu-implementation.deps.json
+D:\Profession\FreeLance\C#\textual-menu-creation-in-console-window-dotnet\textual-menu-implementation\textual-menu-implementation\bin\Debug\net5.0\textual-menu-implementation.runtimeconfig.json
+D:\Profession\FreeLance\C#\textual-menu-creation-in-console-window-dotnet\textual-menu-implementation\textual-menu-implementation\bin\Debug\net5.0\textual-menu-implementation.runtimeconfig.dev.json
+D:\Profession\FreeLance\C#\textual-menu-creation-in-console-window-dotnet\textual-menu-implementation\textual-menu-implementation\bin\Debug\net5.0\textual-menu-implementation.dll
+D:\Profession\FreeLance\C#\textual-menu-creation-in-console-window-dotnet\textual-menu-implementation\textual-menu-implementation\bin\Debug\net5.0\ref\textual-menu-implementation.dll
+D:\Profession\FreeLance\C#\textual-menu-creation-in-console-window-dotnet\textual-menu-implementation\textual-menu-implementation\bin\Debug\net5.0\textual-menu-implementation.pdb
+D:\Profession\FreeLance\C#\textual-menu-creation-in-console-window-dotnet\textual-menu-implementation\textual-menu-implementation\obj\Debug\net5.0\textual-menu-implementation.csproj.AssemblyReference.cache
+D:\Profession\FreeLance\C#\textual-menu-creation-in-console-window-dotnet\textual-menu-implementation\textual-menu-implementation\obj\Debug\net5.0\textual-menu-implementation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Profession\FreeLance\C#\textual-menu-creation-in-console-window-dotnet\textual-menu-implementation\textual-menu-implementation\obj\Debug\net5.0\textual-menu-implementation.AssemblyInfoInputs.cache
+D:\Profession\FreeLance\C#\textual-menu-creation-in-console-window-dotnet\textual-menu-implementation\textual-menu-implementation\obj\Debug\net5.0\textual-menu-implementation.AssemblyInfo.cs
+D:\Profession\FreeLance\C#\textual-menu-creation-in-console-window-dotnet\textual-menu-implementation\textual-menu-implementation\obj\Debug\net5.0\textual-menu-implementation.csproj.CoreCompileInputs.cache
+D:\Profession\FreeLance\C#\textual-menu-creation-in-console-window-dotnet\textual-menu-implementation\textual-menu-implementation\obj\Debug\net5.0\textual-menu-implementation.dll
+D:\Profession\FreeLance\C#\textual-menu-creation-in-console-window-dotnet\textual-menu-implementation\textual-menu-implementation\obj\Debug\net5.0\ref\textual-menu-implementation.dll
+D:\Profession\FreeLance\C#\textual-menu-creation-in-console-window-dotnet\textual-menu-implementation\textual-menu-implementation\obj\Debug\net5.0\textual-menu-implementation.pdb
+D:\Profession\FreeLance\C#\textual-menu-creation-in-console-window-dotnet\textual-menu-implementation\textual-menu-implementation\obj\Debug\net5.0\textual-menu-implementation.genruntimeconfig.cache
